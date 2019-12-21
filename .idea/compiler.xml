@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="campaign-service" target="13" />
-      <module name="member-service" target="13" />
+      <module name="member-service" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
